@@ -1,1 +1,1 @@
-# Java App Running on a Docker container
+# Sample Spring Boot App built with Maven
